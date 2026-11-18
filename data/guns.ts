@@ -305,7 +305,7 @@ export const guns: Gun[] = [
     history: ["전쟁 중 발터 외에 마우저 등도 생산했다.", "전후 서독군이 ‘P1’이라는 이름으로 다시 채택해 오래 썼다."],
     features: ["길게 드러난 총열", "당시로서는 앞선 더블액션 방식", "전쟁 영화의 대표 소품"],
     appearances: [
-      { film: "dirty-harry", who: "스코피오(앤드루 로빈슨)", text: "샌프란시스코를 공포에 빠뜨린 연쇄살인범 스코피오가 쓰는 권총." },
+      { film: "dirty-harry", who: "연쇄살인범 스코피오", text: "샌프란시스코를 공포에 빠뜨린 연쇄살인범 스코피오가 쓰는 권총." },
       { film: "raiders-of-the-lost-ark", who: "토트 소령(로널드 레이시)", text: "게슈타포 토트가 드는 권총." },
       { film: "inglourious-basterds", who: "한스 란다(크리스토프 발츠)", text: "란다 대령의 권총." },
       { film: "schindlers-list", who: "독일군", text: "독일 군인들이 차는 권총으로 나온다." },
