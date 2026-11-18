@@ -1,0 +1,332 @@
+{
+ "glock-17": {
+  "src": "/guns/glock-17.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Glock_17_(6825676904).jpg",
+  "title": "File:Glock 17 (6825676904).jpg",
+  "author": "Askild Antonsen",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "w": 960,
+  "h": 638
+ },
+ "tti-glock-34": {
+  "src": "/guns/tti-glock-34.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Automatic_pistols_July_20_2026_TTI_JW4_Glock_34_Gen_5_Limited_07.jpg",
+  "title": "File:Automatic pistols July 20 2026 TTI JW4 Glock 34 Gen 5 Limited 07.jpg",
+  "author": "P1898",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "w": 960,
+  "h": 475
+ },
+ "tti-sti-2011": {
+  "src": "/guns/tti-sti-2011.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:STI_EDGE_with_2011_frame.jpg",
+  "title": "File:STI EDGE with 2011 frame.jpg",
+  "author": "Mike Cumpston (Mcumpston, English Wikipedia)",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "w": 714,
+  "h": 452
+ },
+ "hk-p30": {
+  "src": "/guns/hk-p30.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Heckler_%26_Koch_P30L_-_left_side.jpg",
+  "title": "File:Heckler & Koch P30L - left side.jpg",
+  "author": "Marián Hubinský",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "w": 960,
+  "h": 673
+ },
+ "beretta-92": {
+  "src": "/guns/beretta-92.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Beretta_92FS_left.jpg",
+  "title": "File:Beretta 92FS left.jpg",
+  "author": "Tim Dobbelaere",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "w": 960,
+  "h": 638
+ },
+ "beretta-93r": {
+  "src": "/guns/beretta-93r.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Beretta_93R.png",
+  "title": "File:Beretta 93R.png",
+  "author": "Atirador",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "w": 568,
+  "h": 381
+ },
+ "colt-m1911": {
+  "src": "/guns/colt-m1911.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Remington_Rand_M1911A1_(6825681098).jpg",
+  "title": "File:Remington Rand M1911A1 (6825681098).jpg",
+  "author": "Askild Antonsen",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "w": 960,
+  "h": 614
+ },
+ "browning-hi-power": {
+  "src": "/guns/browning-hi-power.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:FN_Hi_Power.jpg",
+  "title": "File:FN Hi Power.jpg",
+  "author": "U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "w": 960,
+  "h": 670
+ },
+ "walther-ppk": {
+  "src": "/guns/walther-ppk.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Walther_PPk.jpg",
+  "title": "File:Walther PPk.jpg",
+  "author": "Askild Antonsen",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "w": 960,
+  "h": 638
+ },
+ "walther-p99": {
+  "src": "/guns/walther-p99.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Walther_P99-JH02.jpg",
+  "title": "File:Walther P99-JH02.jpg",
+  "author": "Hrd10",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "w": 960,
+  "h": 680
+ },
+ "walther-p38": {
+  "src": "/guns/walther-p38.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Walther_P38_(6971798779).jpg",
+  "title": "File:Walther P38 (6971798779).jpg",
+  "author": "Askild Antonsen",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "w": 960,
+  "h": 638
+ },
+ "luger-p08": {
+  "src": "/guns/luger-p08.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Luger_P08_(6971793777).jpg",
+  "title": "File:Luger P08 (6971793777).jpg",
+  "author": "Askild Antonsen",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "w": 960,
+  "h": 638
+ },
+ "mauser-c96": {
+  "src": "/guns/mauser-c96.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Mauser_C96_7,63_(6971794467).jpg",
+  "title": "File:Mauser C96 7,63 (6971794467).jpg",
+  "author": "Askild Antonsen",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "w": 960,
+  "h": 638
+ },
+ "desert-eagle": {
+  "src": "/guns/desert-eagle.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:DesertEagle_50AE.jpg",
+  "title": "File:DesertEagle 50AE.jpg",
+  "author": "Bobbfwed",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "w": 960,
+  "h": 555
+ },
+ "auto-mag": {
+  "src": "/guns/auto-mag.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Automag_44amp.jpg",
+  "title": "File:Automag 44amp.jpg",
+  "author": "Dr.mike",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "w": 640,
+  "h": 480
+ },
+ "hk-usp": {
+  "src": "/guns/hk-usp.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Heckler%26KochUSP_(Bobbfwed).jpg",
+  "title": "File:Heckler&KochUSP (Bobbfwed).jpg",
+  "author": "Bobbfwed",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "w": 960,
+  "h": 600
+ },
+ "sig-p226": {
+  "src": "/guns/sig-p226.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Sig_sauer_p226_9mm.jpg",
+  "title": "File:Sig sauer p226 9mm.jpg",
+  "author": "Getfast",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "w": 960,
+  "h": 640
+ },
+ "hk-p7": {
+  "src": "/guns/hk-p7.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Heckler_%26_Koch_P7M13.jpg",
+  "title": "File:Heckler & Koch P7M13.jpg",
+  "author": "Hecklerfan",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "w": 960,
+  "h": 720
+ },
+ "cz-75": {
+  "src": "/guns/cz-75.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:CZ_75_short_rail.png",
+  "title": "File:CZ 75 short rail.png",
+  "author": "Yukof",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "w": 960,
+  "h": 720
+ },
+ "makarov-pm": {
+  "src": "/guns/makarov-pm.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Makarov_pistol_20181020.jpg",
+  "title": "File:Makarov pistol 20181020.jpg",
+  "author": "Tyg728",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "w": 960,
+  "h": 600
+ },
+ "tokarev-tt33": {
+  "src": "/guns/tokarev-tt33.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Tokarev_TT33_(6825679152).jpg",
+  "title": "File:Tokarev TT33 (6825679152).jpg",
+  "author": "Askild Antonsen",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "w": 960,
+  "h": 638
+ },
+ "sw-model-29": {
+  "src": "/guns/sw-model-29.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Smith_%26_Wesson_Model_29_retouched.jpg",
+  "title": "File:Smith & Wesson Model 29 retouched.jpg",
+  "author": "Kaltduscher (German Wikipedia)",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "w": 960,
+  "h": 595
+ },
+ "sw-model-500": {
+  "src": "/guns/sw-model-500.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Smith_%26_Wesson_Model_500_flickr_szuppo.jpg",
+  "title": "File:Smith & Wesson Model 500 flickr szuppo.jpg",
+  "author": "szuppo (Flickr)",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "w": 960,
+  "h": 640
+ },
+ "colt-python": {
+  "src": "/guns/colt-python.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Colt_Python_2020_4_inch.jpg",
+  "title": "File:Colt Python 2020 4 inch.jpg",
+  "author": "Coati077",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "w": 960,
+  "h": 594
+ },
+ "sw-model-686": {
+  "src": "/guns/sw-model-686.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Smith_%26_Wesson_.357_Model_686_Plus.jpg",
+  "title": "File:Smith & Wesson .357 Model 686 Plus.jpg",
+  "author": "Junglecat",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "w": 960,
+  "h": 720
+ },
+ "colt-detective-special": {
+  "src": "/guns/colt-detective-special.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Colt_Detective_Special_-_1st_gen_(49655955672).jpg",
+  "title": "File:Colt Detective Special - 1st gen (49655955672).jpg",
+  "author": "lifesizepotato from San Antonio, TX",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "w": 960,
+  "h": 640
+ },
+ "nagant-m1895": {
+  "src": "/guns/nagant-m1895.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Nagant_M1895_Rajamuseo.JPG",
+  "title": "File:Nagant M1895 Rajamuseo.JPG",
+  "author": "MKFI",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "w": 960,
+  "h": 642
+ },
+ "webley": {
+  "src": "/guns/webley.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Officer%27s_Webley_Mark_VI_Revolver.jpg",
+  "title": "File:Officer's Webley Mark VI Revolver.jpg",
+  "author": "Qwexcxewq",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "w": 960,
+  "h": 640
+ },
+ "chiappa-rhino": {
+  "src": "/guns/chiappa-rhino.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Chiappa_Rhino_200DS_(28433612537).jpg",
+  "title": "File:Chiappa Rhino 200DS (28433612537).jpg",
+  "author": "lifesizepotato from San Antonio, TX",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "w": 960,
+  "h": 643
+ },
+ "mateba-unica": {
+  "src": "/guns/mateba-unica.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:MatebaAutoRevolver6in.jpg",
+  "title": "File:MatebaAutoRevolver6in.jpg",
+  "author": "LoCo CNC",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "w": 696,
+  "h": 419
+ },
+ "colt-saa": {
+  "src": "/guns/colt-saa.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Colt_single_action_3.jpg",
+  "title": "File:Colt single action 3.jpg",
+  "author": "Ricce",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "w": 960,
+  "h": 623
+ },
+ "colt-anaconda": {
+  "src": "/guns/colt-anaconda.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Colt_Anacondas_in_3_barrel_lengths.jpg",
+  "title": "File:Colt Anacondas in 3 barrel lengths.jpg",
+  "author": "Jeffrey M Dean",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "w": 960,
+  "h": 937
+ },
+ "tti-pit-viper": {
+  "src": "/guns/tti-pit-viper.jpg",
+  "pageUrl": "https://commons.wikimedia.org/wiki/File:Collection_JW4_TTI_Pit_Viper_July_20_2026_9mm_automatic_pistol_04.jpg",
+  "title": "File:Collection JW4 TTI Pit Viper July 20 2026 9mm automatic pistol 04.jpg",
+  "author": "P1898",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "w": 960,
+  "h": 589
+ }
+}

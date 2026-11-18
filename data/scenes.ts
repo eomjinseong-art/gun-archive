@@ -1,0 +1,91 @@
+export type Scene = { slug: string; title: string; film: string; gun: string; text: string; quote?: string };
+
+/** 권총이 기억에 남는 장면. 장면 설명만 적고, 총기 조작법이나 사격 요령은 다루지 않습니다. */
+export const scenes: Scene[] = [
+  {
+    slug: "dr-no-ppk",
+    title: "본드, 베레타를 내려놓다",
+    film: "dr-no",
+    gun: "walther-ppk",
+    text: "M의 사무실에서 본드는 늘 쓰던 작은 베레타를 내놓으라는 지시를 받고, 무기 담당관 부스로이드 소령에게서 발터 PPK를 받는다. 이후 60년 동안 이어진 ‘본드의 총’이 이 장면에서 시작됐다.",
+  },
+  {
+    slug: "dirty-harry-lucky",
+    title: "“운이 좋다고 생각하나?”",
+    film: "dirty-harry",
+    gun: "sw-model-29",
+    quote: "You've got to ask yourself one question: ‘Do I feel lucky?’",
+    text: "은행 강도를 제압한 해리 캘러핸이 쓰러진 강도에게 남은 탄이 있는지 세어 봤느냐고 묻는 장면. 모델 29를 ‘세상에서 가장 강력한 권총’으로 만든 대사다.",
+  },
+  {
+    slug: "sudden-impact-make-my-day",
+    title: "“Go ahead, make my day.”",
+    film: "sudden-impact",
+    gun: "sw-model-29",
+    quote: "Go ahead, make my day.",
+    text: "단골 식당에 든 강도를 해리가 막아서며 남긴 대사. 미국 영화연구소(AFI)가 뽑은 명대사 목록에도 오른 장면이다. 이 영화에서 해리는 .44 오토매그도 꺼내 든다.",
+  },
+  {
+    slug: "star-wars-cantina",
+    title: "모스 아이슬리 칸티나",
+    film: "star-wars",
+    gun: "mauser-c96",
+    text: "한 솔로가 그리도와 마주 앉은 칸티나 장면. 한의 블래스터 DL-44는 1896년 독일 권총 마우저 C96에 부품을 덧대 만든 소품이다. ‘누가 먼저 쐈나’ 논쟁으로도 유명하다.",
+  },
+  {
+    slug: "die-hard-finale",
+    title: "나카토미 플라자의 마지막 대면",
+    film: "die-hard",
+    gun: "hk-p7",
+    text: "한스 그루버가 크롬 P7M13으로 홀리를 붙잡고, 존 맥클레인이 베레타 92F 한 자루로 맞서는 결말. 영웅과 악당의 권총이 대비되는 장면으로 자주 꼽힌다.",
+  },
+  {
+    slug: "tomorrow-never-dies-p99",
+    title: "본드, P99로 갈아타다",
+    film: "tomorrow-never-dies",
+    gun: "walther-p99",
+    text: "1997년 007 네버 다이에서 본드는 영화 중반부터 PPK 대신 새 권총 P99를 쓴다. 30년 넘게 이어진 PPK 시대가 잠시 쉬어 간 순간이다.",
+  },
+  {
+    slug: "collateral-vincent",
+    title: "LA의 밤, 회색 정장의 청부살인자",
+    film: "collateral",
+    gun: "hk-usp",
+    text: "택시 기사 맥스의 차에 오른 청부살인자 빈센트. 마이클 만 감독 특유의 사실적인 총격 묘사 속에서 빈센트의 H&K USP가 냉정한 프로의 상징으로 그려진다.",
+  },
+  {
+    slug: "tomb-raider-twin",
+    title: "라라 크로프트의 쌍권총",
+    film: "tomb-raider",
+    gun: "hk-usp",
+    text: "게임 속 라라처럼 양손에 한 자루씩 든 권총. 영화판은 H&K USP 두 자루로 게임의 상징을 옮겼다.",
+  },
+  {
+    slug: "john-wick-2-sommelier",
+    title: "소믈리에의 시음",
+    film: "john-wick-chapter-2",
+    gun: "tti-glock-34",
+    text: "로마의 콘티넨탈에서 존이 ‘소믈리에’에게 와인을 고르듯 무기를 고르는 장면. 여기서 고른 TTI 글록 34가 2편의 주력 권총이 된다.",
+  },
+  {
+    slug: "john-wick-3-charon",
+    title: "샤론이 건넨 권총",
+    film: "john-wick-chapter-3",
+    gun: "tti-sti-2011",
+    text: "하이 테이블 군대가 뉴욕 콘티넨탈을 습격하자 컨시어지 샤론이 무기고를 연다. 존이 전편의 글록 34를 집어 들자 샤론은 다른 총을 권하고, 존은 STI 2011로 호텔을 지킨다.",
+  },
+  {
+    slug: "john-wick-4-bowery",
+    title: "바워리 킹의 선물",
+    film: "john-wick-chapter-4",
+    gun: "tti-pit-viper",
+    text: "파리에서 바워리 킹이 존에게 TTI 핏 바이퍼를 건넨다. 이 권총은 영화 끝까지 존의 주력 무기가 된다.",
+  },
+  {
+    slug: "fury-road-joe",
+    title: "시타델의 지배자",
+    film: "mad-max-fury-road",
+    gun: "colt-anaconda",
+    text: "물과 연료를 쥔 독재자 임모탄 조가 허리에 찬 콜트 아나콘다. 고철을 덧댄 차와 무기가 가득한 세계에서, 반짝이는 리볼버는 그의 권력을 보여 주는 장신구처럼 쓰인다.",
+  },
+];
