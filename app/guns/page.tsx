@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import Link from "next/link";
 import { CoupangCard } from "@/components/CoupangCard";
 import { GunList } from "@/components/GunList";
@@ -13,6 +14,7 @@ export default function GunsPage() {
     <div className="mx-auto max-w-6xl px-4 py-10">
       <PageTitle kicker="HANDGUNS" title="권총 목록" sub={`권총만 다룹니다. 소총·산탄총은 빼고, 영화에 자주 나온 ${guns.length}종을 골랐습니다. 영화 속 등장 기록은 IMFDb(인터넷 영화 총기 데이터베이스)로 확인한 것만 적었습니다.`} />
       <GunList items={items} countries={COUNTRIES} />
+      <NadooAd inline />
       <CoupangCard />
       <section className="rounded-xl border border-line bg-card p-5 text-sm leading-7 text-muted">
         <h2 className="font-serif text-lg text-paper">소품총은 따로 다루지 않습니다</h2>

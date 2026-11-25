@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CoupangCard } from "@/components/CoupangCard";
@@ -93,6 +94,7 @@ export default async function GunPage({ params }: { params: Promise<{ slug: stri
 
       <CoupangCard />
 
+      <NadooAd inline />
       <section>
         <h2 className="font-serif text-xl">자매 사이트에서 더 보기</h2>
         <ul className="mt-3 flex flex-wrap gap-2 text-sm">

@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CoupangCard } from "@/components/CoupangCard";
@@ -66,6 +67,7 @@ export default async function FilmPage({ params }: { params: Promise<{ slug: str
 
       <CoupangCard />
 
+      <NadooAd inline />
       <section>
         <h2 className="font-serif text-xl">이어 보기</h2>
         <ul className="mt-3 flex flex-wrap gap-2 text-sm">
