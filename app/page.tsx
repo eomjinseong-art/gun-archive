@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import Link from "next/link";
 import { CoupangCard } from "@/components/CoupangCard";
 import { GunPhoto } from "@/components/GunPhoto";
@@ -48,6 +49,7 @@ export default function Home() {
 
       <CoupangCard />
 
+      <NadooAd inline />
       <section className="mt-4">
         <div className="flex items-baseline justify-between">
           <h2 className="font-serif text-2xl">명장면</h2>

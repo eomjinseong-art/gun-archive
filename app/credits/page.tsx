@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import { PageTitle } from "@/components/ui";
 import { guns } from "@/data/guns";
 import { gunImage } from "@/lib/gun-images";
@@ -24,6 +25,7 @@ export default function CreditsPage() {
           ))}
         </ul>
       </section>
+      <NadooAd inline />
       <section className="mt-8">
         <h2 className="font-serif text-xl">권총 사진</h2>
         <p className="mt-2 text-sm leading-7 text-muted">포스터와 영화 스틸은 쓰지 않습니다. 권총 사진은 위키미디어 커먼스에 자유 라이선스(CC BY, CC BY-SA, CC0, 퍼블릭 도메인)로 올라온 같은 모델·계열 사진이며, 영화에 쓰인 소품이 아닙니다. 사이트에 맞게 크기만 줄였습니다.</p>
