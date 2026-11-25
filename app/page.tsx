@@ -7,7 +7,7 @@ import { films } from "@/data/films";
 import { guns } from "@/data/guns";
 import { scenes } from "@/data/scenes";
 import { pageMetadata } from "@/lib/seo";
-import { SAFETY_NOTE, SISTER, SITE_NAME, SITE_SUB, SITE_TAGLINE, sisterUrl } from "@/lib/site";
+import { SAFETY_NOTE, SISTER, SITE_NAME, SITE_SUB, SITE_TAGLINE, SITE_URL, sisterUrl } from "@/lib/site";
 
 export const metadata = pageMetadata({ title: SITE_NAME, description: `${SITE_TAGLINE}. ${SITE_SUB}`, path: "/" });
 
@@ -17,6 +17,19 @@ export default function Home() {
   const revolvers = guns.length - autos;
   return (
     <div className="mx-auto max-w-6xl px-4 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: SITE_NAME,
+            url: SITE_URL,
+            description: `${SITE_TAGLINE}. ${SITE_SUB}`,
+            inLanguage: "ko",
+          }),
+        }}
+      />
       <section className="rounded-2xl border border-line bg-[radial-gradient(ellipse_at_top,#2a0f0f,transparent_60%)] px-6 py-12 sm:px-10">
         <p className="text-xs tracking-[0.3em] text-blood">MOVIE GUN ARCHIVE</p>
         <h1 className="mt-3 font-serif text-4xl text-gold sm:text-5xl">{SITE_NAME}</h1>
